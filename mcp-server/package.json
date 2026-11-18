@@ -9,7 +9,7 @@
     "test": "node --test test.js tool-service.test.js"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.0.0",
+    "@modelcontextprotocol/sdk": "^1.32.0",
     "gray-matter": "^4.0.3",
     "ws": "^8.20.1"
   },
